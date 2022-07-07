@@ -1,0 +1,13 @@
+body{
+    background-image: url("../../assets/images/21.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    text-align: center;
+    color: green;
+}
+form{
+    text-align: center;
+}
