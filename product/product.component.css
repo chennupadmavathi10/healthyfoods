@@ -1,0 +1,17 @@
+body {
+    background: #00b09b;
+    background: -webkit-linear-gradient(to right, #a8a4a0, rgb(226, 184, 122));
+    background: linear-gradient(to right, #bbc5c5, rgb(228, 193, 130));
+    min-height: 100vh;
+  }
+  
+  .text-gray {
+    color: #aaa;
+  }
+  h4{
+      text-align: center;
+      color: green;
+  }
+  h5{
+      color: green;
+  }
