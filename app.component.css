@@ -1,0 +1,10 @@
+h1{
+    background-color: black;
+    text-align: center;
+    color: green;
+}
+.container{
+    float: right;
+    margin-left: 600px;
+    background-color: white;
+}
